@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @filipe
+- 👀 I’m interested in boting, more specifically on sneaker boting
+- 🌱 I’m currently learning phyton
+- I’m looking to collaborate on SNKRS 
